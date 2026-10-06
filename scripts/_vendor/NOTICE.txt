@@ -1,0 +1,2 @@
+Mistune 3.0.2 — https://github.com/lepture/mistune
+Vendored unmodified from the local cached distribution. BSD-3-Clause license in mistune/LICENSE.

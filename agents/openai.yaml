@@ -1,0 +1,6 @@
+interface:
+  display_name: "/defuse"
+  icon_small: "./assets/defuse-icon.svg"
+  icon_large: "./assets/defuse-icon.svg"
+  short_description: "Turn dense documents into a calm, sourced reader"
+  default_prompt: "Use $defuse to turn this document into a readable HTML artifact with a TL;DR, themes, sections, takeaways, and grounded follow-up questions."

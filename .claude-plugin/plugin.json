@@ -1,0 +1,14 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "defuse",
+  "description": "Turn a dense document into an offline HTML reader with the full original, a sourced summary, examples, and comments.",
+  "author": {
+    "name": "Marc Ammann",
+    "url": "https://github.com/marcammann"
+  },
+  "homepage": "https://github.com/marcammann/defuse-skill",
+  "repository": "https://github.com/marcammann/defuse-skill",
+  "license": "MIT",
+  "keywords": ["reading", "summary", "documents", "html"],
+  "skills": ["./"]
+}

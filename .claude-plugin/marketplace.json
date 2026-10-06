@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace-manifest.json",
+  "name": "defuse",
+  "owner": {
+    "name": "Marc Ammann",
+    "url": "https://github.com/marcammann"
+  },
+  "description": "Install defuse as a Claude Code plugin.",
+  "plugins": [
+    {
+      "name": "defuse",
+      "source": "./",
+      "description": "Turn a dense document into an offline HTML reader with the full original, a sourced summary, examples, and comments.",
+      "license": "MIT",
+      "keywords": ["reading", "summary", "documents", "html"]
+    }
+  ]
+}
